@@ -1,0 +1,5 @@
+In Python you can read text
+In Python you can read []
+In Python you can read {}
+In Python you can make for
+In Python you can make while
